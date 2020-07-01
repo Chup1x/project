@@ -1,0 +1,26 @@
+footer{
+    height: 350px;
+    background-color: #262729;
+    color: white;
+    
+}
+.num_wrapper{
+    padding-top: 20px;
+}
+.num_of_char{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: rgba(255,255,255,.5);
+
+}
+.contacts_wrapper img{
+    margin-left: 40px;
+    margin-top: 30px;
+    height: 70px;
+}
+.contacts_wrapper p{
+    color: rgba(255,255,255,.5);
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 50px;
+}

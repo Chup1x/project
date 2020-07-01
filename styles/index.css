@@ -12,22 +12,37 @@
 menu{
     border: 1px solid red;
     width: 100%;
-    height: 700px;
+    height: 1300px;
+    margin: 0px;
+    padding: 0px;
+}
+.slide{
+    width: 700px;
+    margin-left: 50px;
+    margin: auto;
+    margin-top: 80px;
+    padding-bottom: 100px;
+}
+.top_wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.top{
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+.cj_slider{
+    height:500px ;
+}
+.naruto_slider{
+    height:500px ;
+}
+.card-img-top{
+    height: 300px;
+}
+.card-deck{
     margin: 0px;
 }
-footer{
-    height: 300px;
-    background-color: #262729;
-    color: white;
-}
-.gmail{
-    display: flex;
-    margin-left: 10px;
-    margin-bottom: 20px;
-}
-.gmail_img{
-    border-radius: 200px;
-    height: 100px;
-    justify-content: center;
-    
-}
+
