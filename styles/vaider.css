@@ -15,38 +15,22 @@ menu{
     margin: 0px;
     padding: 0px;
 }
-.slide{
-    width: 700px;
-    margin-left: 50px;
-    margin: auto;
-    margin-top: 80px;
-    padding-bottom: 100px;
-}
-.top_wrapper{
+.name_wrapper{
     width: 100%;
     display: flex;
     justify-content: center;
 }
-.top{
+.name{
     font-size: 30px;
     margin-top: 20px;
     font-family: sans-serif;
 }
-.cj_slider{
-    height:500px ;
+.biog_wrapper{
+    display: flex;
+    justify-content: space-between;
 }
-.naruto_slider{
-    height:500px ;
-}
-.card-img-top{
-    height: 300px;
-}
-.card-deck{
-    margin: 0px;
-}
-.card p{
-    color: black;
-}
-.card h5{
-    color: black;
+.biog_img{
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 10px;
 }
